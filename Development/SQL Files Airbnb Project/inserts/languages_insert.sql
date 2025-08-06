@@ -1,0 +1,14 @@
+insert into languages (language_name) values ("Dutch");
+insert into languages (language_name) values ("English");
+insert into languages (language_name) values ("French");
+insert into languages (language_name) values ("Spanish");
+insert into languages (language_name) values ("Portuguese");
+insert into languages (language_name) values ("Thai");
+insert into languages (language_name) values ("Romanian");
+insert into languages (language_name) values ("Chinese");
+insert into languages (language_name) values ("German");
+insert into languages (language_name) values ("Indian");
+insert into languages (language_name) values ("Japanese");
+insert into languages (language_name) values ("Swahili");
+insert into languages (language_name) values ("Bislama");
+select*from languages;
